@@ -55,21 +55,21 @@ CMC B5 PROJECT<br />
 <div id="table">
 	<div class="tr">
 		<div class="td">
-        	<label>Faculty : </label>
-        </div>
-        <div class="td">
+        		<label>Faculty : </label>
+         		</div>
+        		<div class="td">
 			<input type="text" name="fc" size="25" required placeholder="Enter Faculty Name" />
-        </div>
-    </div>
-    <div class="tr">
+    		 </div>
+    	</div>
+    	<div class="tr">
 		<div class="td">
-        	<label>Subject I : </label>
-        </div>
-        <div class="td">
+        		<label>Subject I : </label>
+        		</div>
+        		<div class="td">
 			<input type="text" name="sub" size="25" required placeholder="Enter Subject" />
-        </div>
-    </div>      
-    </div>
+        		</div>
+   	 </div>      
+  
 </div>
 		
         <div class="tdd">
@@ -113,7 +113,7 @@ CMC B5 PROJECT<br />
 <div align="center"><input type="button" onClick="window.location='home.php'" value="BACK"></div>
 <br>
 <br>
-</div>
+
 </form>
 
 
